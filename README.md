@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **omerkaancetin001@gmail.com**
 
-- ⚡ Fun fact **I love to code simple applications**
+- ⚡ Fun fact **I love to code applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
