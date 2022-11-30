@@ -2,7 +2,7 @@
 <h3 align="center">Studying Full-stack Webdevelopment at Bit Academy</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Password generator tool**
+- 🔭 I’m currently working on **fadesteam game application**
 
 - 🌱 I’m currently learning **Angular, Laravel, Python**
 
