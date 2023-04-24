@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Twig**
 
-- 🌱 I’m currently learning **Angular, Laravel, Python**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaanb1t](https://github.com/kaanb1t)
 
