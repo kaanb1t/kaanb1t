@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Javascript, Python**
 
-- 📫 How to reach me **omerkaancetin001@gmail.com**
+- 📫 How to reach me **kaancetinn0@gmail.com**
 
 - ⚡ Fun fact **I love to code applications**
 
