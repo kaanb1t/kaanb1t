@@ -2,9 +2,9 @@
 <h3 align="center">Studying Full-stack Webdevelopment at Bit Academy.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Twig**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaanb1t](https://github.com/kaanb1t)
 
